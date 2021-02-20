@@ -1,9 +1,10 @@
 # spotify-clone
 asd
 
-<img src="/myWorkspaces/y/img/navbarLOGO.png" width="400px" height="200px" >                       
+<img src="/myWorkspaces/y/img/navbarLOGO.png" width="400px" height="200px" >    
+
 <a href="https://spotifyclone-4b87e.web.app/"  >Live Demo</a> 
-<h1 href="https://spotifyclone-4b87e.web.app/"> asd</h1>
+
 
 
 
