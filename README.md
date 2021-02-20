@@ -1,2 +1,2 @@
-# spotifi-clone
+# spotify-clone
 asd
