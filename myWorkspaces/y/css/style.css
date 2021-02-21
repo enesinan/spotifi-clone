@@ -27,7 +27,7 @@
    
    float: right;
    z-index: 1;
-   font-size: 16px;
+   font-size: 12px;
   /* font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;*/
   font-family: 'Oi', cursive;
    display: grid;
@@ -37,8 +37,6 @@
     text-justify: auto;
     margin-right: 15rem;
     justify-content: none;
-   
-    
     
     
 }
