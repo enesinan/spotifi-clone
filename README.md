@@ -1,7 +1,7 @@
 # spotify-clone
 
 
-<img src="/myWorkspaces/y/img/navbarLOGO.png" width="400px" height="200px" >    
+<img src="/myWorkspaces/y/img/navbarLOGO.png" width="600px" height="200px" >    
 
 
 
